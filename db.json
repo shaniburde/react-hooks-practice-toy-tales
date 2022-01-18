@@ -46,7 +46,13 @@
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "likes": 2
+    },
+    {
+      "name": "Princess Cutie",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Golde33443.jpg",
+      "likes": 6,
+      "id": 9
     }
   ]
 }
